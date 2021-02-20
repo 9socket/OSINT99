@@ -35,4 +35,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Language Identifier](https://translatedlabs.com/language-identifier) : Identifies foreign language.
 
 • [Google Translate](https://translate.google.com/) : Translate a big variaty of languages.
-• [Yandex Translate](https://translate.yandex.com/) : Translate a big variaty of languages.
+• [Yandex Translate](https://translate.yandex.com/) : Translate a big variaty of languages.<br/>
+
+• [Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier) : Identifies a cipher.
+• [hash Identifier](https://www.tunnelsup.com/hash-analyzer/) : Identifies a hash.
