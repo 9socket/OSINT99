@@ -11,3 +11,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Yahoo](https://www.yahoo.com/)<br/>
 • [Yandex](https://yandex.com/)<br/>
 • [DuckDuckGo](https://duckduckgo.com/)<br/>
+• [StartPage](https://www.startpage.com/)<br/>
+• [Shodan](https://www.shodan.io/)<br/>
+• [Yippy](https://www.yippy.com/)<br/>
+
