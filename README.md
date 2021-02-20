@@ -3,7 +3,6 @@ A list of awesome resources for OSINT investigations. There are many aspects of 
 
 # Disclaimer
 I do not take credit for ANY of these soruces. These are all amazing resources made and posted by other people, and credit will be taken.<br/>
-[here](#chapter1-social-media)
 
 # Search Engines:
 • [Google](https://www.google.com/)<br/>
@@ -15,7 +14,10 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Shodan](https://www.shodan.io/)<br/>
 • [Yippy](https://www.yippy.com/)<br/>
 
-# Chapter1: Social Media
+# Chapter1: Socmint
+
+## Index
+• [Popular Platforms](#popular-platforms)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
