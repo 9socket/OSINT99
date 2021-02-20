@@ -33,6 +33,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 • [Pinterest](https://www.pinterest.com/) <br/>
 • [Quora](https://www.quora.com/) <br/>
 • [SnapChat](https://www.snapchat.com/) <br/>
+• [Twitch](https://www.twitch.tv/) <br />
 
 ## Burner Accounts:
 • [ThisPersonDoesNotexist](https://thispersondoesnotexist.com/) : Generates a close up face using Machine Learning AI.<br/>
@@ -47,4 +48,6 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 
 • [InstantUsername](https://instantusername.com/) <br/>
 • [UserSearch](https://www.usersearch.org/) <br/>
+
+• Note that manually checking is also important in a real investigation.
 
