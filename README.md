@@ -6,8 +6,8 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 
 
 # Search Engines
-• ![Google](https://www.google.com/)
-• ![Bing](https://www.bing.com/)
-• ![Yahoo](https://www.yahoo.com/)
-• ![Yandex](https://yandex.com/)
-• ![DuckDuckGo](https://duckduckgo.com/)
+• [Google](https://www.google.com/)<br/>
+• [Bing](https://www.bing.com/)<br/>
+• [Yahoo](https://www.yahoo.com/)<br/>
+• [Yandex](https://yandex.com/)<br/>
+• [DuckDuckGo](https://duckduckgo.com/)<br/>
