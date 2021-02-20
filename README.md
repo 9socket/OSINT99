@@ -1,9 +1,9 @@
-# OSINT99
+### OSINT99
 A list of awesome resources for OSINT investigations. There are many aspects of OSINT here, including books/videos/articles/websites/GitHubs, and more.
 
 # Disclaimer
 I do not take credit for ANY of these soruces. These are all amazing resources made and posted by other people, and credit will be taken.
-• [forms](#Search Engines)<br/>
+[here](Chapter1: Social Media)
 
 # Search Engines:
 • [Google](https://www.google.com/)<br/>
@@ -15,7 +15,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Shodan](https://www.shodan.io/)<br/>
 • [Yippy](https://www.yippy.com/)<br/>
 
-# Chapter 1: Social Media
+## Chapter1: Social Media
 
 # Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
