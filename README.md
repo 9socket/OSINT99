@@ -17,7 +17,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 # Chapter1: Socmint
 
 ## Index
-• [Popular Platforms](#popular-platforms)
+1. [Popular Platforms](#popular-platforms)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
