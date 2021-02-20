@@ -3,7 +3,7 @@ A list of awesome resources for OSINT investigations. There are many aspects of 
 
 # Disclaimer
 I do not take credit for ANY of these soruces. These are all amazing resources made and posted by other people, and credit will be taken.
-
+• [forms](# Search Engines)<br/>
 
 # Search Engines:
 • [Google](https://www.google.com/)<br/>
@@ -18,12 +18,12 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 # Chapter 1: Social Media
 
 # Popular Platforms
-• [Instagram](https://www.instagram.com/) :<br/>
-• [Twitter](https://twitter.com/) :<br/>
-• [Facebook](https://www.facebook.com/) :<br/>
-• [Reddit](https://www.reddit.com/) :<br/>
-• [Tiktok](https://www.tiktok.com/) :<br/>
-• [Instagram](https://www.instagram.com/) :<br/>
+• [Instagram](https://www.instagram.com/) <br/>
+• [Twitter](https://twitter.com/) <br/>
+• [Facebook](https://www.facebook.com/) <br/>
+• [Reddit](https://www.reddit.com/) <br/>
+• [Tiktok](https://www.tiktok.com/) <br/>
+• [Instagram](https://www.instagram.com/) <br/>
 
 # Burner/Fake Accounts:
 • [ThisPersonDoesNotexist](https://thispersondoesnotexist.com/) : Generates a close up face using Machine Learning AI.<br/>
