@@ -22,6 +22,9 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Spot Fake Faces](https://qz.com/1510746/how-to-identify-fake-faces-generated-by-ai/) : Article explaining how to spot AI generated faces, and tell the difference.<br/>
 • [Spot Fake Accounts](https://www.computerhope.com/issues/ch001850.htm) : Article explaining how to spot fake accounts, and tell the difference.<br/>
 
-# Images/Videos/Metadata:
+# Images/Metadata:
 • [Metadata](https://en.wikipedia.org/wiki/Metadata) : Wiki article explaning what metadata is.<br/>
 • [EXIF Data Viewer](http://exifdata.com/) : Shows EXIF data of an image either through upload or url.
+
+• [Google Images](https://images.google.com/) : Reverse image search, using Google's API.
+• [Yandex Images](https://yandex.com/images/) : Reverse image search, using Yandex's API.
