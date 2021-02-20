@@ -28,3 +28,11 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 
 • [Google Images](https://images.google.com/) : Reverse image search, using Google's API.<br/>
 • [Yandex Images](https://yandex.com/images/) : Reverse image search, using Yandex's API.
+
+• [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) : Onine Image observer.
+
+# Language/Ciphers
+• [Language Identifier](https://translatedlabs.com/language-identifier) : Identifies foreign language.
+
+• [Google Translate](https://translate.google.com/) : Translate a big variaty of languages.
+• [Yandex Translate](https://translate.yandex.com/) : Translate a big variaty of languages.
