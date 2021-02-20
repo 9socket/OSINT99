@@ -1,22 +1,17 @@
 ### OSINT99
 A list of awesome resources for OSINT investigations. There are many aspects of OSINT here, including books/videos/articles/websites/GitHubs, and more.
+Feel free to read through and use these sources for research, investigations, testing, and more. This list will be updated as time goes on, so make sure
+you keep an eye out for updates.
 
 # Disclaimer
 I do not take credit for ANY of these soruces. These are all amazing resources made and posted by other people, and credit will not be taken.<br/>
 
+# What is OSINT?
+OSINT stands for open source intelligence. Meaning that all information is free to the public online. Anyone can view it. This makes it great for backround checks on people, prject research, locating images, and more. The concept is fairly easy to understand, but it does get a lot more in depth.
+
+
 # Chapter Index
 1. [Socmint](#chapter1-socmint)
-
-
-
-# Search Engines:
-• [Google](https://www.google.com/)<br/>
-• [Bing](https://www.bing.com/)<br/>
-• [Yahoo](https://www.yahoo.com/)<br/>
-• [Yandex](https://yandex.com/)<br/>
-• [DuckDuckGo](https://duckduckgo.com/)<br/>
-• [StartPage](https://www.startpage.com/)<br/>
-• [Shodan](https://www.shodan.io/)<br/>
 
 
 # Chapter1: Socmint
