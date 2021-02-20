@@ -23,7 +23,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 
 ## Chapter1 Index
 1. [Popular Platforms](#popular-platforms)
-2. [Burner/Fake Accounts](#burner/fake accounts)
+2. [Burner/Fake Accounts](#burner accounts)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
@@ -33,7 +33,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Tiktok](https://www.tiktok.com/) <br/>
 • [Youtube](https://www.youtube.com/) <br/>
 
-## Burner/Fake Accounts:
+## Burner Accounts:
 • [ThisPersonDoesNotexist](https://thispersondoesnotexist.com/) : Generates a close up face using Machine Learning AI.<br/>
 • [FakeNameGenerator](https://www.fakenamegenerator.com/) : Generates a random ID, for fake use.<br/>
 <br/>
