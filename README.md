@@ -23,7 +23,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 
 ## Chapter1 Index
 1. [Popular Platforms](#popular-platforms)
-2. [Burner/Fake Accounts](#burner accounts)
+2. [Burner/Fake Accounts](#burner-accounts)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
