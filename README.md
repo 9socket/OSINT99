@@ -42,5 +42,9 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 • [Spot Fake Accounts](https://www.computerhope.com/issues/ch001850.htm) : Article explaining how to spot fake accounts, and tell the difference.<br/>
 
 ## Username Lookups:
-• [Sherlock | GitHub](https://github.com/sherlock-project/sherlock) : Python script written to check a username on many sites around the internet.
+• [Sherlock | GitHub](https://github.com/sherlock-project/sherlock) : Python script written to check a username on many sites around the internet.<br/>
+• [Maigret | GitHub](https://github.com/soxoj/maigret) : Fork of Sherlock, with extra features along with more platforms.
+
+• [InstantUsername](https://instantusername.com/) 
+• [UserSearch](https://www.usersearch.org/) 
 
