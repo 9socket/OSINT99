@@ -26,5 +26,5 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Metadata](https://en.wikipedia.org/wiki/Metadata) : Wiki article explaning what metadata is.<br/>
 • [EXIF Data Viewer](http://exifdata.com/) : Shows EXIF data of an image either through upload or url.
 
-• [Google Images](https://images.google.com/) : Reverse image search, using Google's API.
+• [Google Images](https://images.google.com/) : Reverse image search, using Google's API.<br/>
 • [Yandex Images](https://yandex.com/images/) : Reverse image search, using Yandex's API.
