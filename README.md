@@ -48,6 +48,8 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 
 • [InstantUsername](https://instantusername.com/) <br/>
 • [UserSearch](https://www.usersearch.org/) <br/>
+• [NameCheckup](https://namecheckup.com/) <br/>
+• [CheckUser](https://checkuser.org/) <br/>
 
 • Note that manually checking is also important in a real investigation.
 
