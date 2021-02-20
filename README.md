@@ -27,6 +27,11 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 • [Reddit](https://www.reddit.com/) <br/>
 • [Tiktok](https://www.tiktok.com/) <br/>
 • [Youtube](https://www.youtube.com/) <br/>
+• [GitHub](https://github.com/) <br/>
+• [LinkedIn](https://www.linkedin.com/) <br/>
+• [Pinterest](https://www.pinterest.com/) <br/>
+• [Quora](https://www.quora.com/) <br/>
+• [SnapChat](https://www.snapchat.com/) <br/>
 
 ## Burner Accounts:
 • [ThisPersonDoesNotexist](https://thispersondoesnotexist.com/) : Generates a close up face using Machine Learning AI.<br/>
