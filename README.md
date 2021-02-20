@@ -16,7 +16,8 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Yippy](https://www.yippy.com/)<br/>
 
 # Burner/Fake Accounts:
-• [ThisPersonDoesNotexist](https://thispersondoesnotexist.com/)<br/>
-• [FakeNameGenerator](https://www.fakenamegenerator.com/)<br/>
+• [ThisPersonDoesNotexist](https://thispersondoesnotexist.com/) : Generates a close up face using Machine Learning AI.<br/>
+• [FakeNameGenerator](https://www.fakenamegenerator.com/) : Generates a random ID, for fake use.<br/>
+• [Spot Fake Faces](https://qz.com/1510746/how-to-identify-fake-faces-generated-by-ai/) : Article explaining how to spot AI generated faces, and tell the difference.<br/>
 
 
