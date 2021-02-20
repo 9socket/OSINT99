@@ -3,7 +3,7 @@ A list of awesome resources for OSINT investigations. There are many aspects of 
 
 # Disclaimer
 I do not take credit for ANY of these soruces. These are all amazing resources made and posted by other people, and credit will be taken.
-
+[here](#Chapter1:-Social-Media)
 
 # Search Engines:
 • [Google](https://www.google.com/)<br/>
