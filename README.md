@@ -17,12 +17,13 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [DuckDuckGo](https://duckduckgo.com/)<br/>
 • [StartPage](https://www.startpage.com/)<br/>
 • [Shodan](https://www.shodan.io/)<br/>
-• [Yippy](https://www.yippy.com/)<br/>
+
 
 # Chapter1: Socmint
 
-## Index
+## Chapter1 Index
 1. [Popular Platforms](#popular-platforms)
+2. [Burner/Fake Accounts](#burnerfake accounts)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
@@ -30,7 +31,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Facebook](https://www.facebook.com/) <br/>
 • [Reddit](https://www.reddit.com/) <br/>
 • [Tiktok](https://www.tiktok.com/) <br/>
-• [Instagram](https://www.instagram.com/) <br/>
+• [Youtube](https://www.youtube.com/) <br/>
 
 ## Burner/Fake Accounts:
 • [ThisPersonDoesNotexist](https://thispersondoesnotexist.com/) : Generates a close up face using Machine Learning AI.<br/>
