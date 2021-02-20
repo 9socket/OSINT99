@@ -15,9 +15,9 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Shodan](https://www.shodan.io/)<br/>
 • [Yippy](https://www.yippy.com/)<br/>
 
-# Chapter1: Social Media
+### Chapter1: Social Media
 
-## Popular Platforms
+#### Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
 • [Twitter](https://twitter.com/) <br/>
 • [Facebook](https://www.facebook.com/) <br/>
@@ -25,7 +25,7 @@ I do not take credit for ANY of these soruces. These are all amazing resources m
 • [Tiktok](https://www.tiktok.com/) <br/>
 • [Instagram](https://www.instagram.com/) <br/>
 
-## Burner/Fake Accounts:
+#### Burner/Fake Accounts:
 • [ThisPersonDoesNotexist](https://thispersondoesnotexist.com/) : Generates a close up face using Machine Learning AI.<br/>
 • [FakeNameGenerator](https://www.fakenamegenerator.com/) : Generates a random ID, for fake use.<br/>
 <br/>
