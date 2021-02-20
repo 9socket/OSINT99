@@ -19,6 +19,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 ## Chapter1 Index
 1. [Popular Platforms](#popular-platforms)
 2. [Burner/Fake Accounts](#burner-accounts)
+3. [Username Lookups](#username-lookups)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
@@ -39,4 +40,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 <br/>
 • [Spot Fake Faces](https://qz.com/1510746/how-to-identify-fake-faces-generated-by-ai/) : Article explaining how to spot AI generated faces, and tell the difference.<br/>
 • [Spot Fake Accounts](https://www.computerhope.com/issues/ch001850.htm) : Article explaining how to spot fake accounts, and tell the difference.<br/>
+
+## Username Lookups:
+• [Sherlock | GitHub](https://github.com/sherlock-project/sherlock) : Python script written to check a username on many sites around the internet.
 
