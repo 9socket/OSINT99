@@ -63,4 +63,14 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 
 • [HaveIBeenPwned](https://haveibeenpwned.com/) : Check email for data breaches.
 
+• Hint: Removing the domain from an email could lead to some possible usernames relating to your target.
+
+• Popular email domains: <br/>
+• gmail.com <br/>
+• yahoo.com <br/>
+• outlook.com <br/>
+• hotmail.com <br/>
+• protonmail.com <br/>
+
+
 
