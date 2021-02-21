@@ -59,6 +59,8 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 
 • [Ghunt | GitHub](https://github.com/mxrch/ghunt) : Find information from a Gmail account.<br/>
 • [Holehe | GitHub](https://github.com/megadose/holehe) : Find accounts using an email accross the internet. <br/>
-• [Holehe](https://tools.epieos.com/holehe.php) : Website version of Holehe.
+• [Holehe](https://tools.epieos.com/holehe.php) : Website version of Holehe. <br/>
+
+• [HaveIBeenPwned](https://haveibeenpwned.com/) : Check email for data breaches.
 
 
