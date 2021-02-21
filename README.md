@@ -20,6 +20,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 1. [Popular Platforms](#popular-platforms)
 2. [Burner/Fake Accounts](#burner-accounts)
 3. [Username Lookups](#username-lookups)
+4. [Email Observation](#email-observation)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
@@ -52,4 +53,12 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 • [CheckUser](https://checkuser.org/) <br/>
 
 • Note that manually checking is also important in a real investigation.
+
+## Email observation:
+• Emails can be used to find out a load of useful information, in several ways. <br/>
+
+• [Ghunt | GitHub](https://github.com/mxrch/ghunt) : Find information from a Gmail account.<br/>
+• [Holehe | GitHub](https://github.com/megadose/holehe) : Find accounts using an email accross the internet. <br/>
+• [Holehe](https://tools.epieos.com/holehe.php) : Website version of Holehe.
+
 
