@@ -83,7 +83,10 @@ Along with the listings of google dorks, is possible information you can find of
 - **"(SCHOOL DISTRICT) (FULL NAME)"** : grade, age, confirmed school, clubs, sports, friends, yearbook photos.
 - **"(NEIGHBORHOOD) (CONFIRMED SPORT)"** : photos, possible friends, age, roster, possible school information.
 
-## Gather intel from friends
+## Gather Intel From Associates
+Sometimes, friends and family may be the key to finding out information on a person. 
+If your target has no apparent location or school listed on lets say Instagram for example, using his followers, following, and comments are the key to finding that out.
+Check the comments on and tagged users in post, it should be pretty easy to tell who his friends are. All it takes is some searching around to see a location or school, and if you arn't finding what your looking for, check another possible friend. Since you can safley assume they're friends, you may be able to compare one and one together. If you arn't sure, check on some other users. If several of them seem to live in the same neighborhood, you can have a good guess your target does too. It may take longer, but checking followers, and following may work as well. Keep note that the user will follow more IRL individuals, then randoms, so check the people he's following first.
 
 
 
