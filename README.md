@@ -4,7 +4,7 @@ Feel free to read through and use these sources for research, investigations, te
 you keep an eye out for updates.
 
 ## Disclaimer
-I do not take credit for ANY of these soruces. These are all amazing resources made and posted by other people, and credit will not be taken.<br/>
+I do not take credit for ANY of these sources. These are all amazing resources made and posted by other people, and credit will not be taken.<br/>
 
 ## What is OSINT?
 OSINT stands for open source intelligence. Meaning that all information is free to the public online. Anyone can view it. This makes it great for backround checks on people, prject research, locating images, and more. The concept is fairly easy to understand, but it does get a lot more in depth.
@@ -22,6 +22,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 3. [Username Lookups](#username-lookups)
 4. [Email Observation](#email-observation)
 5. [Popular Email Domains](#popular-email-domains)
+6. [Google Dorking with SOCMINT](#google-dorking-with-socmint)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
@@ -72,6 +73,8 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 • outlook.com <br/>
 • hotmail.com <br/>
 • protonmail.com <br/>
+
+## Google Dorking with SOCMINT
 
 
 
