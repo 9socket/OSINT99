@@ -75,10 +75,12 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 • protonmail.com <br/>
 
 ## Google Dorking with SOCMINT
-During SOCIMT, it's important to use the whole internet to your advantage. This includes search engines, but i'll be only covering Google for this. <br/>
+During SOCIMT, it's important to use the whole internet to your advantage. This includes search engines, but i'll be only covering Google for this.
 A more indepth guide for google dorking will be defined later in the guide, but these are useful from gathered SOCMINT information.
+Along with the listings of google dorks, is possible information you can find off of them.
 
 - **"(NEIGHBORHOOD) (FULL NAME)"** : participated clubs, sports, businesses, relatives, school, photos.
+- **"(SCHOOL DISTRICT) (FULL NAME)"** : grade, age, confirmed school, clubs, sports, friends, yearbook photos.
 
 
 
