@@ -21,6 +21,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 2. [Burner/Fake Accounts](#burner-accounts)
 3. [Username Lookups](#username-lookups)
 4. [Email Observation](#email-observation)
+5. [Popular Email Domains](#popular-email-domains)
 
 ## Popular Platforms
 • [Instagram](https://www.instagram.com/) <br/>
@@ -65,7 +66,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 
 • Hint: Removing the domain from an email could lead to some possible usernames relating to your target.
 
-• Popular email domains: <br/>
+## Popular Email Domains
 • gmail.com <br/>
 • yahoo.com <br/>
 • outlook.com <br/>
