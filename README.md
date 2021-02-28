@@ -81,7 +81,7 @@ Along with the listings of google dorks, is possible information you can find of
 
 - **"(NEIGHBORHOOD) (FULL NAME)"** : participated clubs, sports, businesses, relatives, school, photos.
 - **"(SCHOOL DISTRICT) (FULL NAME)"** : grade, age, confirmed school, clubs, sports, friends, yearbook photos.
-- **"(NEIGHBORHOOD) (CONFIRMED SPORT) roster" : 
+- **"(NEIGHBORHOOD) (CONFIRMED SPORT) roster"** : photos, possible friends, age, possible school information.
 
 
 
