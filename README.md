@@ -13,12 +13,12 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 
 
 # Chapter Index
-1. [Socmint](#chapter1-socmint)
+1. [Socmint](#chapter 1-SOCMINT)
 
 
-# Chapter1: Socmint
+# Chapter 1: SOCMINT
 
-## Chapter1 Index
+## Chapter 1 Index
 1. [Popular Platforms](#popular-platforms)
 2. [Burner/Fake Accounts](#burner-accounts)
 3. [Username Lookups](#username-lookups)
