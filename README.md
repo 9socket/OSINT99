@@ -13,7 +13,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 
 
 # Chapter Index
-1. [Socmint](#chapter1 socmint)
+1. [Socmint](#chapter1-socmint)
 
 
 # Chapter 1: SOCMINT
