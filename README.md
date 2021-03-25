@@ -1,7 +1,9 @@
 # OSINT99
 A list of awesome resources for OSINT investigations. There are many aspects of OSINT here, including books/videos/articles/websites/GitHubs, and more.
 Feel free to read through and use these sources for research, investigations, testing, and more. This list will be updated as time goes on, so make sure
-you keep an eye out for updates.
+you keep an eye out for updates.<br/>
+
+!!! THIS REPO IS STILL BEING UPDATED. NEW CONTENT WILL BE ADDED!!!
 
 ## Disclaimer
 I do not take credit for ANY of these sources. These are all amazing resources made and posted by other people, and credit will not be taken.<br/>
