@@ -17,7 +17,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 2. [Geoint](#chapter2-GEOINT)
 
 
-# Chapter 1: SOCMINT
+# Chapter1 SOCMINT
 
 ## Chapter 1 Index
 1. [Popular Platforms](#popular-platforms)
