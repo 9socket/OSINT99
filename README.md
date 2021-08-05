@@ -48,6 +48,7 @@ OSINT stands for open source intelligence. Meaning that all information is free 
 ## Username Lookups:
 • [Sherlock | GitHub](https://github.com/sherlock-project/sherlock) : Python script written to check a username on many sites around the internet.<br/>
 • [Maigret | GitHub](https://github.com/soxoj/maigret) : Fork of Sherlock, with extra features along with more platforms.
+• [Omniscient | GitHub](https://github.com/maraudery/omniscient) : A script made in Go, capable of username look ups, but also a lot more as you can find in the repo.
 
 • [InstantUsername](https://instantusername.com/) <br/>
 • [UserSearch](https://www.usersearch.org/) <br/>
